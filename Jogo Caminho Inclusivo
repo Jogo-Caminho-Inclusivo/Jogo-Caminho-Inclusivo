@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+ <html lang="pt">
+  <html>
+   <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Jogo Caminho Inclusivo</title>
+     <link rel="stylesheet" href="style.css">
+
+  </head>
+   <header>
+    <img src="logotipo/logo.jpeg" alt="logotipo do projeto, um jogo de tabuleiro com crianças brincando"
+   </header>
+   <title>Jogo Caminho Inclusivo</title>
+   <link href="css/style.css" rel="stylesheet">
+   
+  <bory>
+    <h1>Caminho inclusivo: Aprendendo Libras brincando na Educação Infantil</h1>
+
+    <nav class="principal">
+       <ul>
+         <li>
+           <a href="#importancia">A importância dos jogos e da inclusão na Educação Infantil</a>
+         </li>
+         <li>
+           <a href="#jogo">Como funciona o jogo</a>
+         </li>
+         <li>
+           <a href="#videos">Vídeos dos sinais em Libras</a>
+         </li>
+         <li>
+            <a href="#amarelo">Sugestões de materiais adaptados</a>
+          </li>
+       </ul>
+     </nav>
+
+    <section>
+      
+      <section id="importancia">
+        <h2>A importância dos jogos e da inclusão na Educação Infantil</h2>
+        
+        <img src="img1/img3.jpeg" alt="Crianças brincando na Educação Infantil">
+        
+        <p>Os jogos na Educação Infantil desempenham um papel fundamental para o aprendizado da criança, pois brincando a criança desenvolve habilidades cognitivas e socioemocionais, além de adquirir uma aprendizagem mais prazerosa e satisfatória.</p>
+        
+        <p>O trabalho com a inclusão é fundamental nesse período, pois é na educação infantil que as crianças têm seus primeiros contatos com a socialização. Ao promover  a inclusão, cultivamos uma visão empática nas crianças sobre as pessoas que estão à sua volta, incentivando o respeito às diferenças desde pequenas.</p>
+      </section>
+
+      <section id="jogo">
+
+        <h2 class="titulo-verde">Como funciona o jogo "Caminho Inclusivo: aprendendo Libras brincando na Educação Infantil"?</h2>
+  
+        <img src="img11/tabuleiro.jpeg" alt="Tabuleiro do jogo Caminho Inclusivo">
+        
+        <p>Levando em conta a importância dos jogos na Educação Infantil, elaboramos um jogo de tabuleiro com a proposta de as crianças aprenderem Libras brincando, proporcionando um aprendizado lúdico da língua de sinais para a inclusão dos colegas surdos em sala de aula. </p>
+  
+        <p>O jogo consiste em um tabuleiro que permite aos alunos e professores o aprendizado de sinais em Libras, abordando uma variedade de temas. Além disso, através de dinâmicas, ele estimula nas crianças habilidades fundamentais para o desenvolvimento infantil, como coordenação motora fina, psicomotricidade, atenção, lateralidade, concentração e memória.</p>
+        
+        <p>O jogo é composto por um tabuleiro, 10 peões, uma roleta com atividades pedagógicas que as crianças poderão desenvolver em conjunto, uma cartilha explicativa, um dado com números em Libras e cartinhas com perguntas sobre sinais que podem ser utilizados no dia a dia para conversarem com o colega surdo. Também há uma plataforma com videoaulas sobre os temas abordados no jogo, bem como um vocabulário, caso o mediador não tenha conhecimento de Libras ou queira mostrar os vídeos para as crianças. </p>
+
+        <p>O tabuleiro contém um trajeto a ser percorrido pelos peões. Cada jogador, na sua vez de jogada, irá lançar o dado para ver quantas casas irá percorrer. Assim que colocar o seu peão na casa indicada, irá tirar uma cartinha e responder a uma pergunta ou rodar a roleta e fazer a brincadeira relacionada a Libras e às habilidades que, de acordo com a BNCC, devem ser desenvolvidas durante a Educação Infantil. </p>
+
+        <p>As cartinhas são divididas em temas que as crianças utilizam no dia a dia, e cada uma contém um QR code no verso que direciona para o vídeo explicativo sobre o sinal em Libras perguntado. Tendo em vista a importância da musicalização na Educação Infantil, compomos também músicas sobre cada tema ensinando os sinais em Libras para tornar o aprendizado ainda mais divertido. </p>
+
+        <p>É um projeto que beneficia tanto as crianças surdas, por se sentirem acolhidas e valorizadas no ambiente escolar, quanto as crianças ouvintes, proporcionando o aprendizado de um novo idioma de maneira divertida, além de desenvolver habilidades que são essenciais para seu desenvolvimento nessa faixa etária e fortalecer a relação entre alunos e professores. </p>
+      </section>
+
+      <section id="videos">
+        <h2 class="titulo-vermelho">Abaixo, você encontrará os links dos vídeos com sinais em Libras, separados por temas, que são utilizados em nosso jogo. </h2>
+      
+        <section id="animais-em-libras">
+          
+            <h3>Animais</h3>
+          <div class="video-container">
+            <div class="video-wrapper">
+            
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/jkWrgqZi1SI?si=OuzjHb8pIiTe6KkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           </div>
+          </div>
+      
+        </section>
+
+        <section id="frutas-em-libras">
+
+          <h3>Frutas</h3>
+      <div class="video-container">
+        <div class="video-wrapper">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/xLBmQaZtpNE?si=ufgUDhn09OJ-sAgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
+          
+        </section>
+
+        <section id="letras-em-libras">
+
+          <h3>Letras</h3>
+      <div class="video-container">
+        <div class="video-wrapper">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/hWNZrlLmsJ8?si=K-rNQlBKpIB18a6e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
+          
+        </section>
+
+        <section id="numeros-em-libras">
+
+          <h3>Números</h3>
+      <div class="video-container">
+        <div class="video-wrapper">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/M-buS3IuHSA?si=bMrtMbIgHzroDvrJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
+          
+        </section>
+        
+        <section id="meios-de-transportes-em-libras">
+
+          <h3>Meios de Transporte</h3>
+      <div class="video-container">
+        <div class="video-wrapper">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/a12s-XPJx-4?si=ijsCgV-DU97s1RXt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+     </div>
+          
+        </section>
+
+        <h3>Alimentos</h3> 
+    <div class="video-container">
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/XBgAC1U9mSo?si=xiDYLIyJGNlcHunZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+
+        <h3>Cores</h3>
+    <div class="video-container">
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/iIiaKzs_IWU?si=5o7t63X6b_mCnxeW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+
+        <h3>Meses e dias da semana</h3>
+    <div class="video-container">
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/c2udNigGGA8?si=H3jglw_D8DT3N72f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+        
+        <h3>Cumprimentos</h3>
+    <div class="video-container">
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/CV1F-sEKlRM?si=Fq0IbadaQW2S0GVV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+  </div>
+        
+        <h3>Materiais escolares</h3>
+     <div class="video-container">
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/DONk87vODNM?si=Bw6uUVGqrjVSxgYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+        <h3>Sentimentos</h3>
+    <div class="video-container">
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/UvQCdZqVmgA?si=BoIzF1IaSZzjAzdV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+        <h3>Família e meio social</h3>
+    <div class="video-container">
+       <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VzaBbYXENEA?si=D1tjvWIvpfSvMGRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+        <h3>Higiene</h3>
+    <div class="video-container">
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QQqzjDW72ps?si=lP20HQ6j3maDntgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+        <h3>Elementos da cidade</h3>
+    <div class="video-container">
+      <div class="video-wrapper">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5hS88wHotr4?si=bLKRnoJOSj1IDyM3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      </div>
+    </div>
+    
+
+      <section id="amarelo">
+
+        <h3 class="titulo-amarelo">Algumas sugestões de materiais adaptados para o aprendizado da criança surda</h3>
+        <p>Aqui estão algumas sugestões de materiais adaptados feitos por uma das integrantes do projeto que atendia uma criança surda. 
+        </p>
+        <div class="carousel">
+          <input type="radio" name="carousel" id="slide1" checked>
+          <input type="radio" name="carousel" id="slide2">
+          <input type="radio" name="carousel" id="slide3">
+          <input type="radio" name="carousel" id="slide4">
+          <input type="radio" name="carousel" id="slide5">
+          <input type="radio" name="carousel" id="slide6">
+          <input type="radio" name="carousel" id="slide7">
+          <input type="radio" name="carousel" id="slide8">
+          <div class="slides">
+            <div class="slide">
+              <img src="imagem/img11.jpeg" alt="Slide 1">
+            </div>
+            <div class="slide">
+              <img src="imagem/img12.jpeg" alt="Slide 2">
+            </div>
+            <div class="slide">
+              <img src="imagem/img13.jpeg" alt="Slide 3">
+            </div>
+            <div class="slide">
+              <img src="imagem/img14.jpeg" alt="Slide 4">
+            </div>
+            <div class="slide">
+              <img src="imagem/img15.jpeg" alt="Slide 5">
+            </div>
+            <div class="slide">
+              <img src="imagem/img16.jpeg" alt="Slide 6">
+            </div>
+            <div class="slide">
+              <img src="imagem/img17.jpeg" alt="Slide 7">
+            </div>
+            <div class="slide">
+              <img src="imagem/img18.jpeg" alt="Slide 8">
+            </div>
+          </div>
+          <div class="navigation">
+            <label for="slide1"></label>
+            <label for="slide2"></label>
+            <label for="slide3"></label>
+            <label for="slide4"></label>
+            <label for="slide5"></label>
+            <label for="slide6"></label>
+            <label for="slide7"></label>
+            <label for="slide8"></label>
+          </div>
+        </div>
+      </section>
+
+      <h3>Visite nosso Instagram para receber dicas de Libras e  conhecer mais materiais!
+      </h3>
+      <div><a href="https://www.instagram.com/sinalizando_com_elo/" target="_blank">@sinalizando_com_elo</a></div>
+      
+      <a href="https://www.instagram.com/daniarruda_silva/">@daniarruda_silva</a>
+
+
+
+
+      
+      <article>
+        <header>
+          <img id="imagemBeneficios" vspace= "15" src="imagem/‎img10.jpeg" alt="Alunos e professores criadores do projeto">
+          <h3 class="titulo">Sobre nós</h3>
+        </header>
+        <p class="sobre">Somos um grupo de alunos do quarto ano de Formação de Docentes do Colégio Estadual Barbosa Ferraz de Ivaiporã-PR. Em conjunto com nossos professores orientadores, desenvolvemos um projeto visando a inclusão dos alunos surdos em sala de aula. Tendo em vista que uma das alunas trabalhou como auxiliar de uma criança surda, surgiu a ideia do projeto para facilitar a comunicação dos alunos e professores com a criança, promovendo uma educação inclusiva desde a Educação Infantil.</p>
+      </article>
+
+      <h4>Gostaria de conhecer o jogo físico? Entre em contato conosco!</h4>
+      <div><a href="mailto:jogocaminhoinclusivo@gmail.com">Email</a></div>
+      <div><a href="tel:+55 (43) 9153-2482"> Telefone</a></div>
+      <div><a href="https://www.instagram.com/daniarruda_silva/">Instagram</a></div>
+
+
+
+    </section>
+
+  </bory>
+ </html>
